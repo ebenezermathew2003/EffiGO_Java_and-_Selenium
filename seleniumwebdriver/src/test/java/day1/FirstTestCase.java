@@ -16,8 +16,8 @@ public class FirstTestCase {
 	driver.get("https://demo.opencart.com/");
 	String act_title=driver.getTitle();
 	String url=driver.getCurrentUrl();
-	//String page=driver.getPageSource();
-	//System.out.println("Page source is "+page);
+	String page=driver.getPageSource();
+	System.out.println("Page source is "+page);
 	System.out.println("Current url is  "+url);
 	if(act_title.equals("Your Store"))
 	{
