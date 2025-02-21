@@ -796,3 +796,78 @@
 2025-02-20 17:27:48,642 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
 2025-02-20 17:27:48,647 [Worker-152: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-02-20 17:27:48,649 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-20 17:28:06,988 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-20 17:28:06,989 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-20 17:28:06,991 [Worker-157: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-20 17:28:06,994 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 09:43:07,240 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-21 09:43:16,591 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: seleniumwebdriver:seleniumwebdriver:0.0.1-SNAPSHOT @ C:\Automation\Selenium Web Driver\seleniumwebdriver\pom.xml.
+2025-02-21 09:54:37,231 [Worker-25: Launching Xpath] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 09:54:37,239 [Worker-25: Launching Xpath] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 09:54:37,245 [Worker-25: Launching Xpath] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 09:54:37,253 [Worker-25: Launching Xpath] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 09:55:34,637 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-21 09:55:47,621 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: seleniumwebdriver:seleniumwebdriver:0.0.1-SNAPSHOT @ C:\Automation\Selenium Web Driver\seleniumwebdriver\pom.xml.
+2025-02-21 11:50:26,412 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:50:26,417 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 11:50:26,423 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:50:26,430 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 11:56:28,391 [Worker-28: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:56:28,395 [Worker-28: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 11:56:28,401 [Worker-28: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 11:56:28,408 [Worker-28: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:11:53,841 [Worker-28: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:11:53,845 [Worker-28: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:11:53,849 [Worker-28: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:11:53,852 [Worker-28: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:13:00,086 [Worker-31: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:13:00,090 [Worker-31: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:13:00,094 [Worker-31: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:13:00,096 [Worker-31: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:21:04,734 [Worker-32: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:21:04,740 [Worker-32: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:21:04,743 [Worker-32: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:21:04,745 [Worker-32: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:27:52,322 [Worker-32: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:27:52,327 [Worker-32: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:27:52,332 [Worker-32: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:27:52,335 [Worker-32: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:28:30,709 [Worker-37: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:28:30,711 [Worker-37: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:28:30,715 [Worker-37: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:28:30,721 [Worker-37: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:29:34,590 [Worker-35: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:29:34,592 [Worker-35: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:29:34,600 [Worker-35: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:29:34,604 [Worker-35: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:33:13,743 [Worker-37: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:33:13,745 [Worker-37: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:33:13,750 [Worker-37: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:33:13,752 [Worker-37: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:42:39,038 [Worker-39: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:42:39,048 [Worker-39: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:42:39,056 [Worker-39: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:42:39,058 [Worker-39: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:42:57,971 [Worker-43: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:42:57,973 [Worker-43: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:42:57,980 [Worker-43: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:42:57,983 [Worker-43: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:50:51,908 [Worker-43: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:50:51,913 [Worker-43: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:50:51,917 [Worker-43: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:50:51,920 [Worker-43: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:54:16,992 [Worker-45: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:54:16,995 [Worker-45: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:54:17,001 [Worker-45: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:54:17,004 [Worker-45: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:55:40,072 [Worker-49: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:55:40,076 [Worker-49: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:55:40,081 [Worker-49: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:55:40,084 [Worker-49: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 12:59:31,869 [Worker-49: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:59:31,874 [Worker-49: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 12:59:31,878 [Worker-49: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 12:59:31,880 [Worker-49: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-02-21 13:02:17,126 [Worker-49: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-02-21 13:02:17,133 [Worker-49: Launching Xpath_Axes] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Selenium Web Driver\seleniumwebdriver\src\main\resources
+2025-02-21 13:02:17,141 [Worker-49: Launching Xpath_Axes] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
